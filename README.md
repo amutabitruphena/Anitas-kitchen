@@ -6,8 +6,7 @@ Header	Body	Footer
 The main goal is to create a page that resembles the one provided.
 ## introduction.
 The aim of this webpage is to give a description of what Anitas kitchen  means and the details it contains.
-The Foods founds in the streets.
-It also provides images of the foods prepared on the streets a short.
+It also provides images of the foods prepared in the kitchen and the schedule in which every menue is taken per day.
 ### Author.
 This website was designed by Truphena Khavele.
 #### Technology.
