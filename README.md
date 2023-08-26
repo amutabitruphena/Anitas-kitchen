@@ -1,5 +1,5 @@
 # Anitas Kitchen-Website
-This is the landing page for a Anitas Kitchen website. The project is to test my understanding learning experience and the skills i have gained  in HTML and CSS from the start up to now. I he page contains the deatails indicated below.
+This is the landing page for  Anitas Kitchen website. The project is to test my understanding learning experience and the skills i have gained  in HTML and CSS from the start up to now.  The page contains the deatails indicated below.
 
 Header	Body	Footer
 Header	Body	Footer
