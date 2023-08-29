@@ -14,6 +14,12 @@ Built with HTML and styled with CSS3.
 HTML 5.0 is the version used to design the webpage.
 ##### Description.
 This is the landing page for a Anitas Kitchen website. The project is to test my understanding learning experience and the skills i have gained  in HTML and CSS from the start up to now. I he page contains the deatails indicated below.The link to live site on github pages is  https://amutabitruphena.github.io/Anitas-kitchen/
+**#####SCREENSHOTS**
+Screenshots
+These are some of the images of the pages in the website:
+
+Home page	our contact
+home	contact
 ###### License.
 MIT License
 
